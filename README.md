@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td>
-<img src="https://i.pinimg.com/736x/a0/60/34/a06034b1d8187612973a90eb0fb6df6e.jpg" width="170" hspace="50" vspace="10" align="right"/>
+<img src="https://i.pinimg.com/736x/a0/60/34/a06034b1d8187612973a90eb0fb6df6e.jpg" width="170" hspace="30" vspace="10" align="right"/>
 
 | | |
 |---|---|
